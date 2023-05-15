@@ -1,0 +1,22 @@
+*{
+    margin:0px;
+    padding: 0px;
+    overflow-x: hidden;
+} 
+.my-clase{
+    width: 100vw;
+    height: 100vh;
+}
+.head{
+    background-color: aquamarine;
+    padding: 10px;
+    width: calc(100% - 10px);
+    height: 5vh;
+    text-align: center;
+}
+.body{
+    background-color: azure;
+    padding: 10px;
+    width: calc(100% - 10px);
+    height: calc(95vh - 10px);
+}
